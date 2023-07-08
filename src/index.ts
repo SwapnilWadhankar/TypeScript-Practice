@@ -1,5 +1,5 @@
-console.log("hello");
-console.log("This is some message");
-
-console.log("this is the new file");
-console.log("this is the new file")
+let greetings:string="Hellow Swapnil";
+console.log(greetings);
+let smallerCase: String=greetings.toLowerCase();
+console.log(smallerCase);
+console.log("nothing");
